@@ -1,0 +1,20 @@
+[submodule "javascript"]
+	path = javascript
+	url = git@github.com:togglee/togglee-js.git
+	branch = master
+[submodule "python"]
+	path = python
+	url = git@github.com:togglee/togglee-python.git
+	branch = master
+[submodule "kotlin"]
+	path = kotlin
+	url = git@github.com:togglee/togglee-kotlin.git
+	branch = master
+[submodule "go"]
+	path = go
+	url = git@github.com:togglee/togglee-go.git
+	branch = master
+[submodule "website"]
+	path = website
+	url = https://github.com/togglee/togglee-web
+	branch = master
