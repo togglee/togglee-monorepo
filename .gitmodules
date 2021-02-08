@@ -16,5 +16,9 @@
 	branch = master
 [submodule "website"]
 	path = website
-	url = https://github.com/togglee/togglee-web
+	url = git@github.com:togglee/togglee-web.git
 	branch = master
+[submodule "generator"]
+	path = generator
+	url = git@github.com:togglee/togglee-generator.git
+	branch = main
